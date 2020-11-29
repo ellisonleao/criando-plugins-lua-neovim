@@ -1,0 +1,2 @@
+lua require("weather").init()
+
