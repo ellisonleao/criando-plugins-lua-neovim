@@ -1,2 +1,2 @@
-lua require("weather").init()
+lua require("weather").setup()
 
